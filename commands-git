@@ -7,3 +7,10 @@ git push origin <> : Envoie les commits de la branche spécifiée vers le dépô
 git push --force 
 
 git pull
+
+
+# Commande pour créer une branche
+git branch nom_de_la_branche01
+
+# Commande pour changer de branche
+git checkout nom_de_la_branche02
